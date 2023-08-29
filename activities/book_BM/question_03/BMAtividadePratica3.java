@@ -1,6 +1,6 @@
 package activities.book_BM.question_03;
 
-public class Main {
+public class BMAtividadePratica3 {
     public static void main(String[] args) {
         float item1 = 2.95f;
         float item2 = 3.50f;

@@ -1,6 +1,6 @@
 package activities.book_BM.question_02;
 
-public class Main {
+public class BMAtividadePratica2 {
     public static void main(String[] args) {
         int i = 1;
         long j = 2L;
